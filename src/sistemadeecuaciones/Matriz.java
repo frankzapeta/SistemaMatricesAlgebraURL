@@ -15,7 +15,7 @@ public class Matriz {
     Celda Matriz;
     
     public void llenarMatriz(int posi, int poj, int valor){
-        
+        int k = 4;
     }
     
     
