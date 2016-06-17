@@ -4,13 +4,19 @@
  * and open the template in the editor.
  */
 package sistemadeecuaciones;
-
-import objetos.Celda;
+import objetos.*;
+import objetos.Celda.*;
 
 /**
  *
  * @author EST1583708
  */
 public class Matriz {
-    Celda nodo = new Celda();
+    Celda Matriz;
+    
+    public void llenarMatriz(int posi, int poj, int valor){
+        
+    }
+    
+    
 }
