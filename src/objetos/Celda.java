@@ -17,6 +17,10 @@ public class Celda {
     public Celda sigD;
     public Celda sigA;
     
+    public Celda(){
+        
+    }
+    
     public int getNumero() {
         return numero;
     }
